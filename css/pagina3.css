@@ -1,0 +1,27 @@
+body{
+    font-family: "Quicksand", serif;
+}
+
+.letraNegra{
+    color: black;
+}
+
+.img{
+    width: 30px;
+}
+
+#logo{
+    width: 70px;
+}
+
+footer{
+    color: white;
+    padding: 14px;
+    text-align: center;
+}
+
+#elFooter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

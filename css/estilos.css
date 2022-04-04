@@ -1,0 +1,25 @@
+body{
+    font-family: "Quicksand", serif;
+}
+
+#logo{
+    width: 70px;
+}
+
+.derecha{
+    text-align: right;
+}
+
+#footer{
+    color: white;
+    padding: 14px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+#elFooter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

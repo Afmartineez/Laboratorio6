@@ -1,0 +1,42 @@
+body{
+    font-family: "Quicksand", serif;
+}
+
+#bdRelacionales{
+    background-color:brown;
+    color: white;
+    text-align: center;
+}
+
+#logo{
+    width: 70px;
+}
+
+.bd{
+    padding: 14px;
+}
+
+
+.img{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.justificar{
+    text-align: justify;
+}
+
+footer{
+    color: white;
+    padding: 14px;
+    text-align: center;
+}
+
+#elFooter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

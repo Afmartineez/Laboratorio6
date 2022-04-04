@@ -1,0 +1,42 @@
+body{
+    font-family: "Quicksand", serif;
+}
+
+.img{
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 21px;
+}
+
+#logo{
+    width: 70px;
+}
+
+#tiposL{
+    margin-top: 17px;
+    background-color:ghostwhite;
+    border-radius: 30px;
+    padding: 14px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.justificar{
+    text-align: justify;
+}
+
+footer{
+    color: white;
+    padding: 14px;
+    text-align: center;
+}
+
+#elFooter{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
